@@ -1,43 +1,40 @@
-name: John Doe
+name: Eduard Stehlík
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: stehled2@fit.cvut.cz
+  github: stehled
+  linkedin: eduard-stehlik
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Czech
 
-education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+#education:
+#  - degree: MSc in Informatics
+#    time: 2014-2016
+#    university: Ionian University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+#  - degree: BSc in Computer Science
+#    time: 2010-2014
+#    university: Ionian University
 
 skills:
-  - category: Backend
+  - category: My
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - `C`, `C++`
+      - `PHP`, `Nette`
+      - `Python`
+      - `HTML`, `CSS`
+      - `JavaScript`
+      - `Bootstrap`
+      - `Docker`
+      - `git`
 
 # Profile
 profile: |
