@@ -73,7 +73,7 @@ projects:
   - title: Image Source Overlay
     link: https://wordpress.org/plugins/image-source-overlay/
     details: |
-      Open Source Wordpress plugin adding the option to manage image sources and display small overlay with the image source in it's corner.
+      Open Source Wordpress plugin adding the option to manage image sources and display small overlay with the image source in image's corner.
 
   - title: Cookierow.com
     link: https://cookierow.com
