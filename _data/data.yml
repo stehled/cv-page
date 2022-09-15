@@ -27,14 +27,14 @@ languages:
 skills:
   - category: My
     skill: 
-      - `C`, `C++`
-      - `PHP`, `Nette`
-      - `Python`
-      - `HTML`, `CSS`
-      - `JavaScript`
-      - `Bootstrap`
-      - `Docker`
-      - `git`
+      - C, C++
+      - PHP, Nette
+      - Python
+      - HTML, CSS
+      - JavaScript
+      - Bootstrap
+      - Docker
+      - git
 
 # Profile
 profile: |
